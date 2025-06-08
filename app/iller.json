@@ -1,0 +1,488 @@
+[
+  {
+    "plaka": 1,
+    "il": "Adana",
+    "bolge": "Akdeniz",
+    "nufus": 2260300
+  },
+  {
+    "plaka": 2,
+    "il": "Adıyaman",
+    "bolge": "Güneydoğu Anadolu",
+    "nufus": 635169
+  },
+  {
+    "plaka": 3,
+    "il": "Afyonkarahisar",
+    "bolge": "Ege",
+    "nufus": 744179
+  },
+  {
+    "plaka": 4,
+    "il": "Ağrı",
+    "bolge": "Doğu Anadolu",
+    "nufus": 524644
+  },
+  {
+    "plaka": 5,
+    "il": "Amasya",
+    "bolge": "Karadeniz",
+    "nufus": 335331
+  },
+  {
+    "plaka": 6,
+    "il": "Ankara",
+    "bolge": "İç Anadolu",
+    "nufus": 5703985
+  },
+  {
+    "plaka": 7,
+    "il": "Antalya",
+    "bolge": "Akdeniz",
+    "nufus": 2720190
+  },
+  {
+    "plaka": 8,
+    "il": "Artvin",
+    "bolge": "Karadeniz",
+    "nufus": 169403
+  },
+  {
+    "plaka": 9,
+    "il": "Aydın",
+    "bolge": "Ege",
+    "nufus": 1134053
+  },
+  {
+    "plaka": 10,
+    "il": "Balıkesir",
+    "bolge": "Marmara",
+    "nufus": 1313072
+  },
+  {
+    "plaka": 11,
+    "il": "Bilecik",
+    "bolge": "Marmara",
+    "nufus": 228823
+  },
+  {
+    "plaka": 12,
+    "il": "Bingöl",
+    "bolge": "Doğu Anadolu",
+    "nufus": 281205
+  },
+  {
+    "plaka": 13,
+    "il": "Bitlis",
+    "bolge": "Doğu Anadolu",
+    "nufus": 349396
+  },
+  {
+    "plaka": 14,
+    "il": "Bolu",
+    "bolge": "Karadeniz",
+    "nufus": 320865
+  },
+  {
+    "plaka": 15,
+    "il": "Burdur",
+    "bolge": "Akdeniz",
+    "nufus": 273716
+  },
+  {
+    "plaka": 16,
+    "il": "Bursa",
+    "bolge": "Marmara",
+    "nufus": 3101833
+  },
+  {
+    "plaka": 17,
+    "il": "Çanakkale",
+    "bolge": "Marmara",
+    "nufus": 563600
+  },
+  {
+    "plaka": 18,
+    "il": "Çankırı",
+    "bolge": "İç Anadolu",
+    "nufus": 216362
+  },
+  {
+    "plaka": 19,
+    "il": "Çorum",
+    "bolge": "Karadeniz",
+    "nufus": 524130
+  },
+  {
+    "plaka": 20,
+    "il": "Denizli",
+    "bolge": "Ege",
+    "nufus": 1050197
+  },
+  {
+    "plaka": 21,
+    "il": "Diyarbakır",
+    "bolge": "Güneydoğu Anadolu",
+    "nufus": 1864551
+  },
+  {
+    "plaka": 22,
+    "il": "Edirne",
+    "bolge": "Marmara",
+    "nufus": 414714
+  },
+  {
+    "plaka": 23,
+    "il": "Elazığ",
+    "bolge": "Doğu Anadolu",
+    "nufus": 588088
+  },
+  {
+    "plaka": 24,
+    "il": "Erzincan",
+    "bolge": "Doğu Anadolu",
+    "nufus": 239223
+  },
+  {
+    "plaka": 25,
+    "il": "Erzurum",
+    "bolge": "Doğu Anadolu",
+    "nufus": 749754
+  },
+  {
+    "plaka": 26,
+    "il": "Eskişehir",
+    "bolge": "İç Anadolu",
+    "nufus": 898369
+  },
+  {
+    "plaka": 27,
+    "il": "Gaziantep",
+    "bolge": "Güneydoğu Anadolu",
+    "nufus": 2136493
+  },
+  {
+    "plaka": 28,
+    "il": "Giresun",
+    "bolge": "Karadeniz",
+    "nufus": 449504
+  },
+  {
+    "plaka": 29,
+    "il": "Gümüşhane",
+    "bolge": "Karadeniz",
+    "nufus": 141702
+  },
+  {
+    "plaka": 30,
+    "il": "Hakkari",
+    "bolge": "Doğu Anadolu",
+    "nufus": 285615
+  },
+  {
+    "plaka": 31,
+    "il": "Hatay",
+    "bolge": "Akdeniz",
+    "nufus": 1672232
+  },
+  {
+    "plaka": 32,
+    "il": "Isparta",
+    "bolge": "Akdeniz",
+    "nufus": 448298
+  },
+  {
+    "plaka": 33,
+    "il": "Mersin",
+    "bolge": "Akdeniz",
+    "nufus": 1875575
+  },
+  {
+    "plaka": 34,
+    "il": "İstanbul",
+    "bolge": "Marmara",
+    "nufus": 15636243
+  },
+  {
+    "plaka": 35,
+    "il": "İzmir",
+    "bolge": "Ege",
+    "nufus": 4425595
+  },
+  {
+    "plaka": 36,
+    "il": "Kars",
+    "bolge": "Doğu Anadolu",
+    "nufus": 274829
+  },
+  {
+    "plaka": 37,
+    "il": "Kastamonu",
+    "bolge": "Karadeniz",
+    "nufus": 378115
+  },
+  {
+    "plaka": 38,
+    "il": "Kayseri",
+    "bolge": "İç Anadolu",
+    "nufus": 1458727
+  },
+  {
+    "plaka": 39,
+    "il": "Kırklareli",
+    "bolge": "Marmara",
+    "nufus": 369347
+  },
+  {
+    "plaka": 40,
+    "il": "Kırşehir",
+    "bolge": "İç Anadolu",
+    "nufus": 243042
+  },
+  {
+    "plaka": 41,
+    "il": "Kocaeli",
+    "bolge": "Marmara",
+    "nufus": 2063590
+  },
+  {
+    "plaka": 42,
+    "il": "Konya",
+    "bolge": "İç Anadolu",
+    "nufus": 2327598
+  },
+  {
+    "plaka": 43,
+    "il": "Kütahya",
+    "bolge": "Ege",
+    "nufus": 571463
+  },
+  {
+    "plaka": 44,
+    "il": "Malatya",
+    "bolge": "Doğu Anadolu",
+    "nufus": 800165
+  },
+  {
+    "plaka": 45,
+    "il": "Manisa",
+    "bolge": "Ege",
+    "nufus": 1463505
+  },
+  {
+    "plaka": 46,
+    "il": "Kahramanmaraş",
+    "bolge": "Akdeniz",
+    "nufus": 1162849
+  },
+  {
+    "plaka": 47,
+    "il": "Mardin",
+    "bolge": "Güneydoğu Anadolu",
+    "nufus": 854716
+  },
+  {
+    "plaka": 48,
+    "il": "Muğla",
+    "bolge": "Ege",
+    "nufus": 1041297
+  },
+  {
+    "plaka": 49,
+    "il": "Muş",
+    "bolge": "Doğu Anadolu",
+    "nufus": 404452
+  },
+  {
+    "plaka": 50,
+    "il": "Nevşehir",
+    "bolge": "İç Anadolu",
+    "nufus": 310011
+  },
+  {
+    "plaka": 51,
+    "il": "Niğde",
+    "bolge": "İç Anadolu",
+    "nufus": 365419
+  },
+  {
+    "plaka": 52,
+    "il": "Ordu",
+    "bolge": "Karadeniz",
+    "nufus": 763190
+  },
+  {
+    "plaka": 53,
+    "il": "Rize",
+    "bolge": "Karadeniz",
+    "nufus": 344016
+  },
+  {
+    "plaka": 54,
+    "il": "Sakarya",
+    "bolge": "Marmara",
+    "nufus": 1105442
+  },
+  {
+    "plaka": 55,
+    "il": "Samsun",
+    "bolge": "Karadeniz",
+    "nufus": 1360592
+  },
+  {
+    "plaka": 56,
+    "il": "Siirt",
+    "bolge": "Güneydoğu Anadolu",
+    "nufus": 331070
+  },
+  {
+    "plaka": 57,
+    "il": "Sinop",
+    "bolge": "Karadeniz",
+    "nufus": 220799
+  },
+  {
+    "plaka": 58,
+    "il": "Sivas",
+    "bolge": "İç Anadolu",
+    "nufus": 638956
+  },
+  {
+    "plaka": 59,
+    "il": "Tekirdağ",
+    "bolge": "Marmara",
+    "nufus": 1171495
+  },
+  {
+    "plaka": 60,
+    "il": "Tokat",
+    "bolge": "Karadeniz",
+    "nufus": 598708
+  },
+  {
+    "plaka": 61,
+    "il": "Trabzon",
+    "bolge": "Karadeniz",
+    "nufus": 818023
+  },
+  {
+    "plaka": 62,
+    "il": "Tunceli",
+    "bolge": "Doğu Anadolu",
+    "nufus": 83543
+  },
+  {
+    "plaka": 63,
+    "il": "Şanlıurfa",
+    "bolge": "Güneydoğu Anadolu",
+    "nufus": 2323463
+  },
+  {
+    "plaka": 64,
+    "il": "Uşak",
+    "bolge": "Ege",
+    "nufus": 377219
+  },
+  {
+    "plaka": 65,
+    "il": "Van",
+    "bolge": "Doğu Anadolu",
+    "nufus": 1140191
+  },
+  {
+    "plaka": 66,
+    "il": "Yozgat",
+    "bolge": "İç Anadolu",
+    "nufus": 419095
+  },
+  {
+    "plaka": 67,
+    "il": "Zonguldak",
+    "bolge": "Karadeniz",
+    "nufus": 589684
+  },
+  {
+    "plaka": 68,
+    "il": "Aksaray",
+    "bolge": "İç Anadolu",
+    "nufus": 433055
+  },
+  {
+    "plaka": 69,
+    "il": "Bayburt",
+    "bolge": "Karadeniz",
+    "nufus": 85545
+  },
+  {
+    "plaka": 70,
+    "il": "Karaman",
+    "bolge": "İç Anadolu",
+    "nufus": 263250
+  },
+  {
+    "plaka": 71,
+    "il": "Kırıkkale",
+    "bolge": "İç Anadolu",
+    "nufus": 280151
+  },
+  {
+    "plaka": 72,
+    "il": "Batman",
+    "bolge": "Güneydoğu Anadolu",
+    "nufus": 634491
+  },
+  {
+    "plaka": 73,
+    "il": "Şırnak",
+    "bolge": "Güneydoğu Anadolu",
+    "nufus": 546589
+  },
+  {
+    "plaka": 74,
+    "il": "Bartın",
+    "bolge": "Karadeniz",
+    "nufus": 203351
+  },
+  {
+    "plaka": 75,
+    "il": "Ardahan",
+    "bolge": "Doğu Anadolu",
+    "nufus": 91251
+  },
+  {
+    "plaka": 76,
+    "il": "Iğdır",
+    "bolge": "Doğu Anadolu",
+    "nufus": 208826
+  },
+  {
+    "plaka": 77,
+    "il": "Yalova",
+    "bolge": "Marmara",
+    "nufus": 296333
+  },
+  {
+    "plaka": 78,
+    "il": "Karabük",
+    "bolge": "Karadeniz",
+    "nufus": 252058
+  },
+  {
+    "plaka": 79,
+    "il": "Kilis",
+    "bolge": "Güneydoğu Anadolu",
+    "nufus": 155179
+  },
+  {
+    "plaka": 80,
+    "il": "Osmaniye",
+    "bolge": "Akdeniz",
+    "nufus": 559405
+  },
+  {
+    "plaka": 81,
+    "il": "Düzce",
+    "bolge": "Karadeniz",
+    "nufus": 405131
+  }
+]
